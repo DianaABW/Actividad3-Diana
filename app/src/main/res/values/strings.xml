@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Actividad3</string>
+
+    <string name="titulo">Registro de Usuarios</string>
+    <string name="doc">DOCUMENTO</string>
+    <string name="name">NOMBRES</string>
+    <string name="apell">APELLIDOS</string>
+    <string name="usu">USUARIO</string>
+    <string name="pas">CONTRASEÑA</string>
+
+    <string name="button1">REGISTRAR</string>
+    <string name="button2">BUSCAR</string>
+    <string name="button3">LISTAR</string>
+
+    <string name="LV_Lista"></string>
+
+
+</resources>
